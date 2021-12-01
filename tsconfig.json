@@ -6,6 +6,6 @@
 		"declaration": true,
 		"esModuleInterop": true,
 		"outDir": "dist/",
-		"target": "esnext"
+		"target": "ES2018"
 	}
 }
