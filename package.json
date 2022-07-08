@@ -8,9 +8,9 @@
 	"types": "dist/stringify.d.ts",
 	"exports": {
 		".": {
+			"types": "./source/main.ts",
 			"import": "./dist/stringify.es.js",
-			"require": "./dist/stringify.cjs.js",
-			"types": "./source/main.ts"
+			"require": "./dist/stringify.cjs.js"
 		}
 	},
 	"repository": {
