@@ -14,6 +14,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 
 
+## [1.0.3] - 2023-10-14
+
+Fixing issue with missing internals dus to treeshaking
+
+### Fixed
+- removed tree-shaking library
+
 ## [1.0.2] - 2023-10-14
 
 Maintenance release
@@ -32,7 +39,8 @@ Maintenance release
 
 _Initial release_
 
-[Unreleased]: https://github.com/konfirm/stringify/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/konfirm/stringify/compare/v1.0.3...HEAD
+[1.0.2]: https://github.com/konfirm/stringify/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/konfirm/stringify/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/konfirm/stringify/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/konfirm/stringify/releases/tag/v1.0.0
