@@ -1,0 +1,14 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 2018
+    },
+    "plugins": [
+        "tree-shaking"
+    ],
+    "rules": {
+        "tree-shaking/no-side-effects-in-initialization": 2
+    },
+    "env": {
+        "es6": true
+    }
+}
