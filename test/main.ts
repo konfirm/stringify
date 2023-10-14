@@ -1,5 +1,5 @@
 import test from 'tape';
-import each from 'template-literal-each';
+import { each } from 'template-literal-each';
 import * as Exports from '../source/main';
 
 test('main - exports', (t) => {
