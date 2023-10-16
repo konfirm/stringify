@@ -1,6 +1,6 @@
 {
 	"name": "@konfirm/stringify",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Create a string representation of any value",
 	"iife": "dist/stringify.js",
 	"main": "dist/stringify.cjs.js",
